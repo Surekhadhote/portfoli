@@ -147,7 +147,9 @@ margin-top: -1px;
     color: rgb(46, 46, 46);
     margin-right: 10px;
 }
-
+a{
+text-decoration:none;
+}
 #loc:hover,#mail:hover{
     color: rgb(98, 216, 210);
     margin-right: 10px;
@@ -156,14 +158,7 @@ margin-top: -1px;
     margin-top: 50px;
 
 }
-#box1:a{
-text-decoration: none;}
-#box2:a{
-text-decoration: none;}
-#box2:a{
-text-decoration: none;}
-#box2:a{
-text-decoration: none;}
+
 #box1{
     border-radius: 5px;
     background-color: rgb(252, 250, 250);
