@@ -156,7 +156,7 @@ margin-top: -1px;
     margin-top: 50px;
 
 }
-#box a{
+#box:a{
 text-decoration: none;}
 #box1{
     border-radius: 5px;
