@@ -164,7 +164,7 @@ margin-top: -1px;
     width: fit-content;
     color: rgb(46, 46, 46);
     margin-right: 30px;
-    
+    text-decoration: none;
 }
 
 #box2{
@@ -175,6 +175,7 @@ margin-top: -1px;
     padding: 8px;
     height: fit-content;
     width: fit-content; 
+  text-decoration: none;
 }
 
 #box3{
@@ -185,6 +186,7 @@ margin-top: -1px;
     width: fit-content;
     color: rgb(46, 46, 46);
     margin-right: 30px;
+  text-decoration: none;
   
 }
 #box4{
@@ -195,7 +197,7 @@ margin-top: -1px;
     width: fit-content;
     color: rgb(46, 46, 46);
     margin-right: 30px;
-      
+      text-decoration: none;
 }
 #box1:hover{
     border-radius: 5px;
