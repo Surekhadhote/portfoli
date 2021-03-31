@@ -242,10 +242,10 @@ margin-top: -1px;
     color: rgb(141, 219, 206);
     margin-right: 30px;
     transition: 0.5s;
-}/*
+}
 #wrap{
     
-   /* height: 16rem;
+    height: 16rem;
     width: 16rem;
     border-width: 3%;
     border-radius: 100%;
@@ -257,7 +257,7 @@ border-radius: 100%;
 width: 20%;
 height: 20%;
 background: rgb(211, 65, 65);
-}*/
+}
 #image{
     height: 14rem;
     width: 14rem;
