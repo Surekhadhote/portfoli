@@ -16,7 +16,7 @@ margin-left: inherit;
     background-color: rgb(255, 255, 255);
     width: 100%;
     /*    border: 1px solid grey;*/
-    margin: 100px auto;
+    margin: 10 auto;
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -68,7 +68,7 @@ margin: 10px;
    /* text-decoration: underline;*/
 }
 .home{
-    margin-top: 100px;
+    margin-top: 50px;
     flex:100%;
     display: flex;
     flex-wrap: wrap;
