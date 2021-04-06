@@ -24,7 +24,7 @@ margin-left: inherit;
 
 }
 #navi{
-  background-color:red;
+  
  flex:100%;
 float: left;
 display: flex;
@@ -50,7 +50,7 @@ padding: 5px;
 
 }
 .nav{
-
+background-color:red;
     color: rgb(92, 92, 92);
 margin: 10px;
     text-decoration: none;
