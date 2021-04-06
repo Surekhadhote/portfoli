@@ -16,7 +16,7 @@ margin-left: inherit;
     background-color: rgb(255, 255, 255);
     width: 100%;
     /*    border: 1px solid grey;*/
-    margin: 0 auto;
+    margin: 100px auto;
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -28,7 +28,7 @@ margin-left: inherit;
  flex:100%;
 float: left;
 display: flex;
-margin: 10px;
+margin: 20px;
 flex-wrap: wrap;
 flex-grow: inherit;
 
@@ -51,7 +51,7 @@ flex-grow: inherit;
 .nav{
 
     color: rgb(92, 92, 92);
-margin: 0px;
+margin: 10px;
     text-decoration: none;
     font-size: 18px;
     font-weight: 600;
@@ -60,7 +60,7 @@ margin: 0px;
 }
 #navi a:hover,a:active{
 
-    padding-bottom: 0px;
+    padding-bottom: 10px;
     border-bottom: 1px solid rgb(146, 146, 144);
     transition: 0.5s;
     font-size: 20px;
