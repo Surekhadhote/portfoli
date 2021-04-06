@@ -25,21 +25,13 @@ margin-left: inherit;
 }
 #navi{
   background-color:red;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    padding-right: 0px;
-    padding-left: 0px;
-flex:100%;
+ flex:100%;
 float: left;
 display: flex;
 margin: 0px;
 flex-wrap: wrap;
 flex-grow: inherit;
-padding: 10px;
+padding: 5px;
 
 }
 @media screen and (max-width: 900px){
