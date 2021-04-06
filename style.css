@@ -31,7 +31,6 @@ display: flex;
 margin: 0px;
 flex-wrap: wrap;
 flex-grow: inherit;
-padding: 5px;
 
 }
 @media screen and (max-width: 900px){
@@ -50,7 +49,7 @@ padding: 5px;
 
 }
 .nav{
-background-color:red;
+
     color: rgb(92, 92, 92);
 margin: 10px;
     text-decoration: none;
