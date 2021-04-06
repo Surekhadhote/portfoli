@@ -51,7 +51,7 @@ flex-grow: inherit;
 .nav{
 
     color: rgb(92, 92, 92);
-margin: 10px;
+margin: 0px;
     text-decoration: none;
     font-size: 18px;
     font-weight: 600;
@@ -60,7 +60,7 @@ margin: 10px;
 }
 #navi a:hover,a:active{
 
-    padding-bottom: 5px;
+    padding-bottom: 0px;
     border-bottom: 1px solid rgb(146, 146, 144);
     transition: 0.5s;
     font-size: 20px;
@@ -162,18 +162,19 @@ margin-top: -1px;
     height: fit-content;
     width: fit-content;
     color: rgb(46, 46, 46);
-    margin-right: 30px;
-
+    margin-right: 20px;
+text-decoration:none;
 }
 
 #box2{
     color: rgb(46, 46, 46);
-    margin-right: 30px;
+    margin-right: 20px;
     border-radius: 5px;
     background-color: rgb(252, 250, 250);
     padding: 8px;
     height: fit-content;
     width: fit-content; 
+  text-decoration:none;
 }
 
 #box3{
@@ -183,7 +184,8 @@ margin-top: -1px;
     height: fit-content;
     width: fit-content;
     color: rgb(46, 46, 46);
-    margin-right: 30px;
+    margin-right: 20px;
+  text-decoration:none;
 
 }
 #box4{
@@ -193,7 +195,8 @@ margin-top: -1px;
     height: fit-content;
     width: fit-content;
     color: rgb(46, 46, 46);
-    margin-right: 30px;
+    margin-right: 20px;
+  text-decoration:none;
 
 }
 #box1:hover{
@@ -203,8 +206,9 @@ margin-top: -1px;
     height: fit-content;
     width: fit-content;
     color: rgb(141, 219, 206);
-    margin-right: 30px;
+    margin-right: 20px;
     transition: 0.5s;
+  text-decoration:none;
 }
 
 #box2:hover{
@@ -214,9 +218,9 @@ margin-top: -1px;
     height: fit-content;
     width: fit-content;
     color: rgb(141, 219, 206);
-    margin-right: 30px;
+    margin-right: 20px;
     transition: 0.5s;
-}
+text-decoration:none;}
 
 #box3:hover{
     border-radius: 5px;
@@ -225,7 +229,7 @@ margin-top: -1px;
     height: fit-content;
     width: fit-content;
     color: rgb(141, 219, 206);
-    margin-right: 30px;
+    margin-right: 20px;
     transition: 0.5s;
 }
 #box4:hover{
@@ -235,8 +239,9 @@ margin-top: -1px;
     height: fit-content;
     width: fit-content;
     color: rgb(141, 219, 206);
-    margin-right: 30px;
+    margin-right: 20px;
     transition: 0.5s;
+  text-decoration:none;
 }/*
 #wrap{
     
