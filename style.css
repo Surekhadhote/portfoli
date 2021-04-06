@@ -28,7 +28,7 @@ margin-left: inherit;
  flex:100%;
 float: left;
 display: flex;
-margin: 0px;
+margin: 10px;
 flex-wrap: wrap;
 flex-grow: inherit;
 
@@ -68,12 +68,12 @@ margin: 0px;
    /* text-decoration: underline;*/
 }
 .home{
-    margin-top: 50px;
+    margin-top: 100px;
     flex:100%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     justify-content: space-evenly;
 }
 
